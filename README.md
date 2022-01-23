@@ -8,11 +8,11 @@ The election commission has requested data to complete an audit of the most rece
 
 - Total Votes: 369,711
 - The county results:
-	-Jefferson: 10.5% (38,855)
-	-Denver: 82.8% (306,055)
-	-Arapahoe: 6.7% (24,801)
+ -Jefferson: 10.5% (38,855)
+ -Denver: 82.8% (306,055)
+ -Arapahoe: 6.7% (24,801)
 
-![](https://github.com/mpfraser7/stock-analysis/blob/main/Stock%20Performance%20Comparison.png)
+![](https://github.com/mpfraser7/Election_Analysis/blob/main/Analysis/County%20Votes%20Code.png)
 
 -Largest County Turnout: Denver
 
