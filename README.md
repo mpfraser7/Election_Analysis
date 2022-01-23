@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Overview of Election Audit
-The election commission has requested data to complete an audit of the most recent election. The audit consists of counting the votes for each candidate and county. 
+The election commission has requested to use python data analysis to complete an audit of the most recent election. The audit consists of counting the votes for each candidate and county. 
 
 
 ## Election-Audit Results
